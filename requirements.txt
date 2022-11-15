@@ -1,0 +1,11 @@
+pandas
+numpy
+SQLAlchemy==1.4.29
+mysql-client==0.0.1
+mysql-connector-python==8.0.27
+PyMySQL==1.0.2
+pandas
+yfinance
+scipy
+numpy
+plotly
